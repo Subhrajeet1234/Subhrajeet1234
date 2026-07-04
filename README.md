@@ -27,7 +27,7 @@
   <a href="https://your-portfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/Subhrajeet1234">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p> -->
@@ -79,22 +79,22 @@ Hello! I'm **Subhrajeet Pradhan** , a passionate **Full-Stack Developer** from B
 <!-- Animated GitHub Stats Cards -->
 <p align="center">
   <a href="#">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00BFFF" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Subhrajeet1234&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhrajeet1234&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00BFFF" />
   </a>
 </p>
 
 <!-- Animated Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=react&hide_border=true&background=0D1117&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subhrajeet1234&theme=react&hide_border=true&background=0D1117&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" alt="GitHub Streak" />
 </p>
 
 <!-- Animated Contribution Graph (Optional - requires snake animation) -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Subhrajeet1234/Subhrajeet1234/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Subhrajeet1234/Subhrajeet1234/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Subhrajeet1234/Subhrajeet1234/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
