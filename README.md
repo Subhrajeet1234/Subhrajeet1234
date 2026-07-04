@@ -76,11 +76,10 @@ Hello! I'm **Subhrajeet Pradhan** , a passionate **Full-Stack Developer** from B
 
 ## 📈 GitHub Stats & Activity
 
-<!-- Animated GitHub Stats Cards -->
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Subhrajeet1234&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhrajeet1234&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00BFFF" alt="Top Languages" />
-</p>
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Subhrajeet1234&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhrajeet1234&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00BFFF" />
+</div>
 
 <!-- Animated Streak Stats -->
 <p align="center">
