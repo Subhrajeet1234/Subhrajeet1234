@@ -89,15 +89,6 @@ Hello! I'm **Subhrajeet Pradhan** , a passionate **Full-Stack Developer** from B
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subhrajeet1234&theme=react&hide_border=true&background=0D1117&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" alt="GitHub Streak" />
 </p>
 
-<!-- Animated Contribution Graph (Optional - requires snake animation) -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Subhrajeet1234/Subhrajeet1234/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Subhrajeet1234/Subhrajeet1234/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Subhrajeet1234/Subhrajeet1234/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
 ---
 
 ## 📊 This Week I Spent My Time On
